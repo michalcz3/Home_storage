@@ -1,2 +1,2 @@
 # Home_storage
-The ultimate application for managing home inventory.
+The ultimate application for managing home inventory created with Python.
